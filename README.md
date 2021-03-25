@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jocephus/WikiLeaker)
+
 # WikiLeaker.py
 A scraper inspired by the Datasploit module written in Python2. This script leverages pandas and Python3. This is also being submitted as a Recon-ng module.
 
